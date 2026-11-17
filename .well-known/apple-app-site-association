@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7U83V26HTW.com.perturbedmuffin.tinwing"],
+        "components": [
+          { "/": "/tinwing-site/join", "comment": "Tinwing invite link without the last slash" },
+          { "/": "/tinwing-site/join/*", "comment": "Tinwing invite link: /tinwing-site/join/?c=<code>" }
+        ]
+      }
+    ]
+  }
+}
